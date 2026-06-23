@@ -87,7 +87,7 @@ export default function VideoModal({ isOpen, onClose }: VideoModalProps) {
           Uncomment or replace with:
           <iframe
             className="w-full h-full absolute inset-0"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1&mute=0"
+            src="https://www.youtube.com/embed/jQiMR89GzxY?si=zWvL6-Fo6teKDMDD"
             title="Birthday Greeting Video"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
