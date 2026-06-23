@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Chiquita",
+  "description": "Sebuah landing page ucapan ulang tahun yang estetik, modern, dan responsive untuk Chiquita Devina Aurellia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
